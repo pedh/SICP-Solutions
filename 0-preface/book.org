@@ -1,0 +1,9 @@
+#+TITLE: Structure and Interpretation of Computer Programs
+
+* Online
+  [[https://mitpress.mit.edu/sites/default/files/sicp/index.html][SICP official]]
+
+* Offline
+  [[../static/misc/sicp.pdf][SICP pdf book (Unofficial Texinfo Format)]]
+
+  [[../static/misc/sicp.chm][SICP official chm book]]
